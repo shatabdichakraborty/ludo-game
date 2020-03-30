@@ -1,0 +1,8 @@
+<html>
+<head>
+<title></title>
+<img src="king.jpeg">
+<form class="form-horizontal" action="ludo-game.html">
+</form>
+</head>
+</html>
